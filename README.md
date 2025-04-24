@@ -58,12 +58,6 @@ beTheHero/
 
 ---
 
-## 📸 Live Preview
-
-> 💻 **Live Preview:** [https://beatrizj.github.io/bethehero](https://beatrizj.github.io/bethehero)
-
----
-
 ## 🛠️ How to Run the Project Locally
 **Pre-requisites**
 - Node.js
