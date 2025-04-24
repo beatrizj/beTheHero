@@ -60,7 +60,7 @@ beTheHero/
 
 ## 📸 Live Preview
 
-> 💻 **Live Preview:** [https://beatrizj.github.io/bikcraft](https://beatrizj.github.io/bikcraft)
+> 💻 **Live Preview:** [https://beatrizj.github.io/bethehero](https://beatrizj.github.io/bethehero)
 
 ---
 
