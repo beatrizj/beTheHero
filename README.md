@@ -9,7 +9,7 @@
 
 ---
 
-# 🧠 About the Project
+## 🧠 About the Project
 
 The project simulates a real-world platform where non-profit organizations can register cases of people or causes in need, and users can browse and choose to support them financially. It demonstrates the ability to architect and implement a full-stack solution, including:
 
